@@ -1,0 +1,19 @@
+
+body{
+font-family: sans-serif;
+background-image: url(http://allthingsspeculative.files.wordpress.com/2013/02/marceline-the-vampire-queen-adventure-time.jpg);
+background-repeat: repeat;
+}
+
+h1{
+color: red;
+}
+
+p{
+margin: 20px;
+}
+
+.active{
+border: 1px solid black;
+}
+
